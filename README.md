@@ -1,4 +1,4 @@
-JavaScript Hand-Written Templates
+hJavaScript Hand-Written Templates
 ---
 
 ## Objectives
